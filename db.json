@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "shubham",
+      "day": "ameta",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "next ",
+      "day": "trial",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "shubham",
+      "day": "ameta",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "task is working",
+      "day": "today",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
